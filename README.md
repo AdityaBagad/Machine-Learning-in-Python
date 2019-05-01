@@ -10,3 +10,4 @@
    - [K Nearest Neighbors](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/02_Classification/01_K-Nearest%20Neighbors)
    - [Decision Tree](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/02_Classification/02_Decision%20Tree)
    - [Logistic Regression](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/02_Classification/03_Logistic%20Regression)
+   - [Support Vector Machines](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/02_Classification/04_Support%20Vector%20Machines)
