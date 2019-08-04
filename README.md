@@ -14,5 +14,3 @@
    
 3. Clustering
    - [K-Means Clustering]()
-
-> More Contents will be added
