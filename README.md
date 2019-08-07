@@ -13,4 +13,5 @@
    - [Support Vector Machines](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/02_Classification/04_Support%20Vector%20Machines)
    
 3. Clustering
-   - [K-Means Clustering]()
+   - [K-Means Clustering](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/03_Clustering/01_K-Means)
+   - [Hierarchical Clustering](https://github.com/AdityaBagad/Machine-Learning-in-Python/tree/master/03_Clustering/02_Hierarchical%20Clustering)
